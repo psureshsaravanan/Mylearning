@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="257" started-at="2018-11-08T01:25:52Z" finished-at="2018-11-08T01:25:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="257" started-at="2018-11-08T01:25:52Z" finished-at="2018-11-08T01:25:52Z">
+      <class name="com.org.learningmaven.MyTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.org.learningmaven.MyTest@61832929]" name="setup" duration-ms="25" started-at="2018-11-08T01:25:52Z" finished-at="2018-11-08T01:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.org.learningmaven.MyTest -->
+      <class name="com.org.learningmaven.MyclassTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.org.learningmaven.MyclassTest@5e5792a0]" name="run" duration-ms="2" started-at="2018-11-08T01:25:52Z" finished-at="2018-11-08T01:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.org.learningmaven.MyclassTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
